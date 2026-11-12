@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.apsara109abc_design.twa",
+        "sha256_cert_fingerprints": ["51:08:9A:C9:B0:EA:8A:A0:A7:A5:E9:7E:A7:1C:41:DD:92:B1:72:54:8C:D2:F6:B9:9F:96:EF:30:50:66:0B:B3"]
+      }
+    }]
